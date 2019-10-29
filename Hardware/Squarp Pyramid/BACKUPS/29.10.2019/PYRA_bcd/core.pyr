@@ -1,0 +1,771 @@
+PYRAMID CORE FILE
+TYPE CORE_SET_01
+ 
+---- CORE DATA ----
+Mode:1
+Seq_Mode:0
+Track:1
+Sequence:1
+BPM:1300
+Octave:5
+Base_Tonality:0
+Tonality:5
+Complexity:3
+Maj_Min:1
+Pyramid_Channel_In:16
+Ignore_CC:0
+Ignore_RT:0
+Ignore_SYNC:0
+Ignore_Pitch:0
+Ignore_Aftertouch:1
+Ignore_PC:1
+Assign_Note_In:0
+Omni_Mode:0
+Midi_Loop_Mode:0
+Midi_A_mode:0
+Midi_B_mode:0
+Send_SYNC_A:0
+Send_SYNC_B:0
+Send_SYNC_USB:0
+Send_RT_A:0
+Send_RT_B:0
+Send_RT_USB:0
+Pyramid_Channel_Out:0
+Clock_Stop:1
+Din_Sync_Type:0
+Din_Sync_Stop:1
+Mode_Analog_In:2
+CV_In_Type:0
+Note_CV_In:36
+CV_Out_Type:0
+Note_CV_Out:36
+CV_enveloppe_type:0
+Gate_out_level:1
+CV_in_tuning:100
+CV_out_tuning:100
+Mode_Pedal_1:0
+Mode_Pedal_2:2
+Doubletap:0
+Countdown:1
+Metronome:1
+Metro_note:64
+Step_edit:0
+CC_Autorec:0
+Play_Pad:0
+Default_Track_Run:0
+Settings_Zoom:4
+Settings_Length:1
+Settings_TSL:4
+Settings_TSR:2
+Settings_Perform:1
+Settings_Assign:1
+Touchpad_Smartpads:0
+Touchpad:1
+Touchpad_Relatch:0
+USB:1
+Inst_Mute:0
+Step_Learn:1
+Live_Looper:0
+Filter_Sysex:0
+Startup_Play:0
+Default_Polyrhy:0
+---- TRACK01 ----
+TR>01_Channel:0
+TR>01_Zoom:100
+TR>01_Length:16
+TR>01_Step_Mode:2
+TR>01_Relatch:0
+TR>01_Midi_Output:1
+TR>01_Time_Sign_L:4
+TR>01_Time_Sign_R:16
+TR>01_Euclid_Step:16
+TR>01_Euclid_Fill:7
+TR>01_Euclid_Rotate:10
+TR>01_Euclid_Backup1:4
+TR>01_Euclid_Backup2:4
+TR>01_Euclid_Backup3:4
+TR>01_Euclid_Backup4:4369
+TR>01_Euclid_Pattern:21673
+TR>01_Euclid_Backup5:400
+TR>01_FX1:2
+TR>01_FX1_P01:1
+TR>01_FX1_P02:4
+TR>01_FX1_P03:2
+TR>01_FX1_P04:200
+TR>01_FX1_P05:50
+TR>01_FX2:4
+TR>01_FX2_P01:0
+TR>01_FX2_P02:10
+TR>01_FX2_P03:167
+TR>01_FX2_P04:2
+TR>01_FX2_P05:94
+---- TRACK02 ----
+TR>02_Channel:1
+TR>02_Zoom:400
+TR>02_Length:4
+TR>02_Relatch:0
+TR>02_Midi_Output:1
+TR>02_Time_Sign_L:4
+TR>02_Time_Sign_R:4
+---- TRACK03 ----
+TR>03_Channel:2
+TR>03_Zoom:400
+TR>03_Length:4
+TR>03_Relatch:0
+TR>03_Midi_Output:1
+TR>03_Time_Sign_L:4
+TR>03_Time_Sign_R:4
+---- TRACK04 ----
+TR>04_Channel:3
+TR>04_Zoom:400
+TR>04_Length:4
+TR>04_Relatch:0
+TR>04_Midi_Output:1
+TR>04_Time_Sign_L:4
+TR>04_Time_Sign_R:4
+---- TRACK05 ----
+TR>05_Channel:4
+TR>05_Zoom:400
+TR>05_Length:4
+TR>05_Relatch:0
+TR>05_Midi_Output:1
+TR>05_Time_Sign_L:4
+TR>05_Time_Sign_R:4
+---- TRACK06 ----
+TR>06_Channel:5
+TR>06_Zoom:400
+TR>06_Length:4
+TR>06_Relatch:0
+TR>06_Midi_Output:1
+TR>06_Time_Sign_L:4
+TR>06_Time_Sign_R:4
+---- TRACK07 ----
+TR>07_Channel:6
+TR>07_Zoom:400
+TR>07_Length:4
+TR>07_Relatch:0
+TR>07_Midi_Output:1
+TR>07_Time_Sign_L:4
+TR>07_Time_Sign_R:4
+---- TRACK08 ----
+TR>08_Channel:7
+TR>08_Zoom:400
+TR>08_Length:4
+TR>08_Relatch:0
+TR>08_Midi_Output:1
+TR>08_Time_Sign_L:4
+TR>08_Time_Sign_R:4
+---- TRACK09 ----
+TR>09_Channel:8
+TR>09_Zoom:400
+TR>09_Length:4
+TR>09_Relatch:0
+TR>09_Midi_Output:1
+TR>09_Time_Sign_L:4
+TR>09_Time_Sign_R:4
+---- TRACK10 ----
+TR>10_Channel:9
+TR>10_Zoom:400
+TR>10_Length:4
+TR>10_Relatch:0
+TR>10_Midi_Output:1
+TR>10_Time_Sign_L:4
+TR>10_Time_Sign_R:4
+---- TRACK11 ----
+TR>11_Channel:10
+TR>11_Zoom:400
+TR>11_Length:4
+TR>11_Relatch:0
+TR>11_Midi_Output:1
+TR>11_Time_Sign_L:4
+TR>11_Time_Sign_R:4
+---- TRACK12 ----
+TR>12_Channel:11
+TR>12_Zoom:400
+TR>12_Length:4
+TR>12_Relatch:0
+TR>12_Midi_Output:1
+TR>12_Time_Sign_L:4
+TR>12_Time_Sign_R:4
+---- TRACK13 ----
+TR>13_Channel:12
+TR>13_Zoom:400
+TR>13_Length:4
+TR>13_Relatch:0
+TR>13_Midi_Output:1
+TR>13_Time_Sign_L:4
+TR>13_Time_Sign_R:4
+---- TRACK14 ----
+TR>14_Channel:13
+TR>14_Zoom:400
+TR>14_Length:4
+TR>14_Relatch:0
+TR>14_Midi_Output:1
+TR>14_Time_Sign_L:4
+TR>14_Time_Sign_R:4
+---- TRACK15 ----
+TR>15_Channel:14
+TR>15_Zoom:400
+TR>15_Length:4
+TR>15_Relatch:0
+TR>15_Midi_Output:1
+TR>15_Time_Sign_L:4
+TR>15_Time_Sign_R:4
+---- TRACK16 ----
+TR>16_Channel:15
+TR>16_Zoom:400
+TR>16_Length:4
+TR>16_Relatch:0
+TR>16_Midi_Output:1
+TR>16_Time_Sign_L:4
+TR>16_Time_Sign_R:4
+---- TRACK17 ----
+TR>17_Channel:0
+TR>17_Zoom:400
+TR>17_Length:4
+TR>17_Relatch:0
+TR>17_Midi_Output:1
+TR>17_Time_Sign_L:4
+TR>17_Time_Sign_R:4
+---- TRACK18 ----
+TR>18_Channel:1
+TR>18_Zoom:400
+TR>18_Length:4
+TR>18_Relatch:0
+TR>18_Midi_Output:1
+TR>18_Time_Sign_L:4
+TR>18_Time_Sign_R:4
+---- TRACK19 ----
+TR>19_Channel:2
+TR>19_Zoom:400
+TR>19_Length:4
+TR>19_Relatch:0
+TR>19_Midi_Output:1
+TR>19_Time_Sign_L:4
+TR>19_Time_Sign_R:4
+---- TRACK20 ----
+TR>20_Channel:3
+TR>20_Zoom:400
+TR>20_Length:4
+TR>20_Relatch:0
+TR>20_Midi_Output:1
+TR>20_Time_Sign_L:4
+TR>20_Time_Sign_R:4
+---- TRACK21 ----
+TR>21_Channel:4
+TR>21_Zoom:400
+TR>21_Length:4
+TR>21_Relatch:0
+TR>21_Midi_Output:1
+TR>21_Time_Sign_L:4
+TR>21_Time_Sign_R:4
+---- TRACK22 ----
+TR>22_Channel:5
+TR>22_Zoom:400
+TR>22_Length:4
+TR>22_Relatch:0
+TR>22_Midi_Output:1
+TR>22_Time_Sign_L:4
+TR>22_Time_Sign_R:4
+---- TRACK23 ----
+TR>23_Channel:6
+TR>23_Zoom:400
+TR>23_Length:4
+TR>23_Relatch:0
+TR>23_Midi_Output:1
+TR>23_Time_Sign_L:4
+TR>23_Time_Sign_R:4
+---- TRACK24 ----
+TR>24_Channel:7
+TR>24_Zoom:400
+TR>24_Length:4
+TR>24_Relatch:0
+TR>24_Midi_Output:1
+TR>24_Time_Sign_L:4
+TR>24_Time_Sign_R:4
+---- TRACK25 ----
+TR>25_Channel:8
+TR>25_Zoom:400
+TR>25_Length:4
+TR>25_Relatch:0
+TR>25_Midi_Output:1
+TR>25_Time_Sign_L:4
+TR>25_Time_Sign_R:4
+---- TRACK26 ----
+TR>26_Channel:9
+TR>26_Zoom:400
+TR>26_Length:4
+TR>26_Relatch:0
+TR>26_Midi_Output:1
+TR>26_Time_Sign_L:4
+TR>26_Time_Sign_R:4
+---- TRACK27 ----
+TR>27_Channel:10
+TR>27_Zoom:400
+TR>27_Length:4
+TR>27_Relatch:0
+TR>27_Midi_Output:1
+TR>27_Time_Sign_L:4
+TR>27_Time_Sign_R:4
+---- TRACK28 ----
+TR>28_Channel:11
+TR>28_Zoom:400
+TR>28_Length:4
+TR>28_Relatch:0
+TR>28_Midi_Output:1
+TR>28_Time_Sign_L:4
+TR>28_Time_Sign_R:4
+---- TRACK29 ----
+TR>29_Channel:12
+TR>29_Zoom:400
+TR>29_Length:4
+TR>29_Relatch:0
+TR>29_Midi_Output:1
+TR>29_Time_Sign_L:4
+TR>29_Time_Sign_R:4
+---- TRACK30 ----
+TR>30_Channel:13
+TR>30_Zoom:400
+TR>30_Length:4
+TR>30_Relatch:0
+TR>30_Midi_Output:1
+TR>30_Time_Sign_L:4
+TR>30_Time_Sign_R:4
+---- TRACK31 ----
+TR>31_Channel:14
+TR>31_Zoom:400
+TR>31_Length:4
+TR>31_Relatch:0
+TR>31_Midi_Output:1
+TR>31_Time_Sign_L:4
+TR>31_Time_Sign_R:4
+---- TRACK32 ----
+TR>32_Channel:15
+TR>32_Zoom:400
+TR>32_Length:4
+TR>32_Relatch:0
+TR>32_Midi_Output:1
+TR>32_Time_Sign_L:4
+TR>32_Time_Sign_R:4
+---- TRACK33 ----
+TR>33_Channel:0
+TR>33_Zoom:400
+TR>33_Length:4
+TR>33_Relatch:0
+TR>33_Midi_Output:1
+TR>33_Time_Sign_L:4
+TR>33_Time_Sign_R:4
+---- TRACK34 ----
+TR>34_Channel:1
+TR>34_Zoom:400
+TR>34_Length:4
+TR>34_Relatch:0
+TR>34_Midi_Output:1
+TR>34_Time_Sign_L:4
+TR>34_Time_Sign_R:4
+---- TRACK35 ----
+TR>35_Channel:2
+TR>35_Zoom:400
+TR>35_Length:4
+TR>35_Relatch:0
+TR>35_Midi_Output:1
+TR>35_Time_Sign_L:4
+TR>35_Time_Sign_R:4
+---- TRACK36 ----
+TR>36_Channel:3
+TR>36_Zoom:400
+TR>36_Length:4
+TR>36_Relatch:0
+TR>36_Midi_Output:1
+TR>36_Time_Sign_L:4
+TR>36_Time_Sign_R:4
+---- TRACK37 ----
+TR>37_Channel:4
+TR>37_Zoom:400
+TR>37_Length:4
+TR>37_Relatch:0
+TR>37_Midi_Output:1
+TR>37_Time_Sign_L:4
+TR>37_Time_Sign_R:4
+---- TRACK38 ----
+TR>38_Channel:5
+TR>38_Zoom:400
+TR>38_Length:4
+TR>38_Relatch:0
+TR>38_Midi_Output:1
+TR>38_Time_Sign_L:4
+TR>38_Time_Sign_R:4
+---- TRACK39 ----
+TR>39_Channel:6
+TR>39_Zoom:400
+TR>39_Length:4
+TR>39_Relatch:0
+TR>39_Midi_Output:1
+TR>39_Time_Sign_L:4
+TR>39_Time_Sign_R:4
+---- TRACK40 ----
+TR>40_Channel:7
+TR>40_Zoom:400
+TR>40_Length:4
+TR>40_Relatch:0
+TR>40_Midi_Output:1
+TR>40_Time_Sign_L:4
+TR>40_Time_Sign_R:4
+---- TRACK41 ----
+TR>41_Channel:8
+TR>41_Zoom:400
+TR>41_Length:4
+TR>41_Relatch:0
+TR>41_Midi_Output:1
+TR>41_Time_Sign_L:4
+TR>41_Time_Sign_R:4
+---- TRACK42 ----
+TR>42_Channel:9
+TR>42_Zoom:400
+TR>42_Length:4
+TR>42_Relatch:0
+TR>42_Midi_Output:1
+TR>42_Time_Sign_L:4
+TR>42_Time_Sign_R:4
+---- TRACK43 ----
+TR>43_Channel:10
+TR>43_Zoom:400
+TR>43_Length:4
+TR>43_Relatch:0
+TR>43_Midi_Output:1
+TR>43_Time_Sign_L:4
+TR>43_Time_Sign_R:4
+---- TRACK44 ----
+TR>44_Channel:11
+TR>44_Zoom:400
+TR>44_Length:4
+TR>44_Relatch:0
+TR>44_Midi_Output:1
+TR>44_Time_Sign_L:4
+TR>44_Time_Sign_R:4
+---- TRACK45 ----
+TR>45_Channel:12
+TR>45_Zoom:400
+TR>45_Length:4
+TR>45_Relatch:0
+TR>45_Midi_Output:1
+TR>45_Time_Sign_L:4
+TR>45_Time_Sign_R:4
+---- TRACK46 ----
+TR>46_Channel:13
+TR>46_Zoom:400
+TR>46_Length:4
+TR>46_Relatch:0
+TR>46_Midi_Output:1
+TR>46_Time_Sign_L:4
+TR>46_Time_Sign_R:4
+---- TRACK47 ----
+TR>47_Channel:14
+TR>47_Zoom:400
+TR>47_Length:4
+TR>47_Relatch:0
+TR>47_Midi_Output:1
+TR>47_Time_Sign_L:4
+TR>47_Time_Sign_R:4
+---- TRACK48 ----
+TR>48_Channel:15
+TR>48_Zoom:400
+TR>48_Length:4
+TR>48_Relatch:0
+TR>48_Midi_Output:1
+TR>48_Time_Sign_L:4
+TR>48_Time_Sign_R:4
+---- TRACK49 ----
+TR>49_Channel:0
+TR>49_Zoom:400
+TR>49_Length:4
+TR>49_Relatch:0
+TR>49_Midi_Output:1
+TR>49_Time_Sign_L:4
+TR>49_Time_Sign_R:4
+---- TRACK50 ----
+TR>50_Channel:1
+TR>50_Zoom:400
+TR>50_Length:4
+TR>50_Relatch:0
+TR>50_Midi_Output:1
+TR>50_Time_Sign_L:4
+TR>50_Time_Sign_R:4
+---- TRACK51 ----
+TR>51_Channel:2
+TR>51_Zoom:400
+TR>51_Length:4
+TR>51_Relatch:0
+TR>51_Midi_Output:1
+TR>51_Time_Sign_L:4
+TR>51_Time_Sign_R:4
+---- TRACK52 ----
+TR>52_Channel:3
+TR>52_Zoom:400
+TR>52_Length:4
+TR>52_Relatch:0
+TR>52_Midi_Output:1
+TR>52_Time_Sign_L:4
+TR>52_Time_Sign_R:4
+---- TRACK53 ----
+TR>53_Channel:4
+TR>53_Zoom:400
+TR>53_Length:4
+TR>53_Relatch:0
+TR>53_Midi_Output:1
+TR>53_Time_Sign_L:4
+TR>53_Time_Sign_R:4
+---- TRACK54 ----
+TR>54_Channel:5
+TR>54_Zoom:400
+TR>54_Length:4
+TR>54_Relatch:0
+TR>54_Midi_Output:1
+TR>54_Time_Sign_L:4
+TR>54_Time_Sign_R:4
+---- TRACK55 ----
+TR>55_Channel:6
+TR>55_Zoom:400
+TR>55_Length:4
+TR>55_Relatch:0
+TR>55_Midi_Output:1
+TR>55_Time_Sign_L:4
+TR>55_Time_Sign_R:4
+---- TRACK56 ----
+TR>56_Channel:7
+TR>56_Zoom:400
+TR>56_Length:4
+TR>56_Relatch:0
+TR>56_Midi_Output:1
+TR>56_Time_Sign_L:4
+TR>56_Time_Sign_R:4
+---- TRACK57 ----
+TR>57_Channel:8
+TR>57_Zoom:400
+TR>57_Length:4
+TR>57_Relatch:0
+TR>57_Midi_Output:1
+TR>57_Time_Sign_L:4
+TR>57_Time_Sign_R:4
+---- TRACK58 ----
+TR>58_Channel:9
+TR>58_Zoom:400
+TR>58_Length:4
+TR>58_Relatch:0
+TR>58_Midi_Output:1
+TR>58_Time_Sign_L:4
+TR>58_Time_Sign_R:4
+---- TRACK59 ----
+TR>59_Channel:10
+TR>59_Zoom:400
+TR>59_Length:4
+TR>59_Relatch:0
+TR>59_Midi_Output:1
+TR>59_Time_Sign_L:4
+TR>59_Time_Sign_R:4
+---- TRACK60 ----
+TR>60_Channel:11
+TR>60_Zoom:400
+TR>60_Length:4
+TR>60_Relatch:0
+TR>60_Midi_Output:1
+TR>60_Time_Sign_L:4
+TR>60_Time_Sign_R:4
+---- TRACK61 ----
+TR>61_Channel:12
+TR>61_Zoom:400
+TR>61_Length:4
+TR>61_Relatch:0
+TR>61_Midi_Output:1
+TR>61_Time_Sign_L:4
+TR>61_Time_Sign_R:4
+---- TRACK62 ----
+TR>62_Channel:13
+TR>62_Zoom:400
+TR>62_Length:4
+TR>62_Relatch:0
+TR>62_Midi_Output:1
+TR>62_Time_Sign_L:4
+TR>62_Time_Sign_R:4
+---- TRACK63 ----
+TR>63_Channel:14
+TR>63_Zoom:400
+TR>63_Length:4
+TR>63_Relatch:0
+TR>63_Midi_Output:1
+TR>63_Time_Sign_L:4
+TR>63_Time_Sign_R:4
+---- TRACK64 ----
+TR>64_Channel:15
+TR>64_Zoom:400
+TR>64_Length:4
+TR>64_Relatch:0
+TR>64_Midi_Output:1
+TR>64_Time_Sign_L:4
+TR>64_Time_Sign_R:4
+---- CREATED SEQ ----
+Seq_Created:1
+Seq_Picture:0
+Seq_Picture2:0
+Seq_BarPerform:1
+----- SEQ01 -----
+SEQ>01_Mute_BankA:65534
+SEQ>01_Mute_BankB:65535
+SEQ>01_Mute_BankC:65535
+SEQ>01_Mute_BankD:65535
+----- SEQ02 -----
+SEQ>02_Mute_BankA:65535
+SEQ>02_Mute_BankB:65535
+SEQ>02_Mute_BankC:65535
+SEQ>02_Mute_BankD:65535
+----- SEQ03 -----
+SEQ>03_Mute_BankA:65535
+SEQ>03_Mute_BankB:65535
+SEQ>03_Mute_BankC:65535
+SEQ>03_Mute_BankD:65535
+----- SEQ04 -----
+SEQ>04_Mute_BankA:65535
+SEQ>04_Mute_BankB:65535
+SEQ>04_Mute_BankC:65535
+SEQ>04_Mute_BankD:65535
+----- SEQ05 -----
+SEQ>05_Mute_BankA:65535
+SEQ>05_Mute_BankB:65535
+SEQ>05_Mute_BankC:65535
+SEQ>05_Mute_BankD:65535
+----- SEQ06 -----
+SEQ>06_Mute_BankA:65535
+SEQ>06_Mute_BankB:65535
+SEQ>06_Mute_BankC:65535
+SEQ>06_Mute_BankD:65535
+----- SEQ07 -----
+SEQ>07_Mute_BankA:65535
+SEQ>07_Mute_BankB:65535
+SEQ>07_Mute_BankC:65535
+SEQ>07_Mute_BankD:65535
+----- SEQ08 -----
+SEQ>08_Mute_BankA:65535
+SEQ>08_Mute_BankB:65535
+SEQ>08_Mute_BankC:65535
+SEQ>08_Mute_BankD:65535
+----- SEQ09 -----
+SEQ>09_Mute_BankA:65535
+SEQ>09_Mute_BankB:65535
+SEQ>09_Mute_BankC:65535
+SEQ>09_Mute_BankD:65535
+----- SEQ10 -----
+SEQ>10_Mute_BankA:65535
+SEQ>10_Mute_BankB:65535
+SEQ>10_Mute_BankC:65535
+SEQ>10_Mute_BankD:65535
+----- SEQ11 -----
+SEQ>11_Mute_BankA:65535
+SEQ>11_Mute_BankB:65535
+SEQ>11_Mute_BankC:65535
+SEQ>11_Mute_BankD:65535
+----- SEQ12 -----
+SEQ>12_Mute_BankA:65535
+SEQ>12_Mute_BankB:65535
+SEQ>12_Mute_BankC:65535
+SEQ>12_Mute_BankD:65535
+----- SEQ13 -----
+SEQ>13_Mute_BankA:65535
+SEQ>13_Mute_BankB:65535
+SEQ>13_Mute_BankC:65535
+SEQ>13_Mute_BankD:65535
+----- SEQ14 -----
+SEQ>14_Mute_BankA:65535
+SEQ>14_Mute_BankB:65535
+SEQ>14_Mute_BankC:65535
+SEQ>14_Mute_BankD:65535
+----- SEQ15 -----
+SEQ>15_Mute_BankA:65535
+SEQ>15_Mute_BankB:65535
+SEQ>15_Mute_BankC:65535
+SEQ>15_Mute_BankD:65535
+----- SEQ16 -----
+SEQ>16_Mute_BankA:65535
+SEQ>16_Mute_BankB:65535
+SEQ>16_Mute_BankC:65535
+SEQ>16_Mute_BankD:65535
+----- SEQ17 -----
+SEQ>17_Mute_BankA:65535
+SEQ>17_Mute_BankB:65535
+SEQ>17_Mute_BankC:65535
+SEQ>17_Mute_BankD:65535
+----- SEQ18 -----
+SEQ>18_Mute_BankA:65535
+SEQ>18_Mute_BankB:65535
+SEQ>18_Mute_BankC:65535
+SEQ>18_Mute_BankD:65535
+----- SEQ19 -----
+SEQ>19_Mute_BankA:65535
+SEQ>19_Mute_BankB:65535
+SEQ>19_Mute_BankC:65535
+SEQ>19_Mute_BankD:65535
+----- SEQ20 -----
+SEQ>20_Mute_BankA:65535
+SEQ>20_Mute_BankB:65535
+SEQ>20_Mute_BankC:65535
+SEQ>20_Mute_BankD:65535
+----- SEQ21 -----
+SEQ>21_Mute_BankA:65535
+SEQ>21_Mute_BankB:65535
+SEQ>21_Mute_BankC:65535
+SEQ>21_Mute_BankD:65535
+----- SEQ22 -----
+SEQ>22_Mute_BankA:65535
+SEQ>22_Mute_BankB:65535
+SEQ>22_Mute_BankC:65535
+SEQ>22_Mute_BankD:65535
+----- SEQ23 -----
+SEQ>23_Mute_BankA:65535
+SEQ>23_Mute_BankB:65535
+SEQ>23_Mute_BankC:65535
+SEQ>23_Mute_BankD:65535
+----- SEQ24 -----
+SEQ>24_Mute_BankA:65535
+SEQ>24_Mute_BankB:65535
+SEQ>24_Mute_BankC:65535
+SEQ>24_Mute_BankD:65535
+----- SEQ25 -----
+SEQ>25_Mute_BankA:65535
+SEQ>25_Mute_BankB:65535
+SEQ>25_Mute_BankC:65535
+SEQ>25_Mute_BankD:65535
+----- SEQ26 -----
+SEQ>26_Mute_BankA:65535
+SEQ>26_Mute_BankB:65535
+SEQ>26_Mute_BankC:65535
+SEQ>26_Mute_BankD:65535
+----- SEQ27 -----
+SEQ>27_Mute_BankA:65535
+SEQ>27_Mute_BankB:65535
+SEQ>27_Mute_BankC:65535
+SEQ>27_Mute_BankD:65535
+----- SEQ28 -----
+SEQ>28_Mute_BankA:65535
+SEQ>28_Mute_BankB:65535
+SEQ>28_Mute_BankC:65535
+SEQ>28_Mute_BankD:65535
+----- SEQ29 -----
+SEQ>29_Mute_BankA:65535
+SEQ>29_Mute_BankB:65535
+SEQ>29_Mute_BankC:65535
+SEQ>29_Mute_BankD:65535
+----- SEQ30 -----
+SEQ>30_Mute_BankA:65535
+SEQ>30_Mute_BankB:65535
+SEQ>30_Mute_BankC:65535
+SEQ>30_Mute_BankD:65535
+----- SEQ31 -----
+SEQ>31_Mute_BankA:65535
+SEQ>31_Mute_BankB:65535
+SEQ>31_Mute_BankC:65535
+SEQ>31_Mute_BankD:65535
+----- SEQ32 -----
+SEQ>32_Mute_BankA:65535
+SEQ>32_Mute_BankB:65535
+SEQ>32_Mute_BankC:65535
+SEQ>32_Mute_BankD:65535
+---- SEQ CHAIN ----
