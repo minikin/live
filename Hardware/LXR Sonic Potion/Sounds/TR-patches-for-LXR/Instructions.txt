@@ -1,0 +1,61 @@
+This is the Björn Fogelberg TR-707/808/909 patch set for the Sonic Potions LXR drum machine.
+
+All patches were created by Bjorn Fogelberg in 2017, on a self-built Sonic Potions LXR Drum machine using the LXR Custom firmware 0.37 by Brendan Clarke. All patches are free to use in your music and spread as you like, as long as you don't make any money from the patches. This means you are not allowed to sell them for money in any way. They are free and should remain that way.
+
+Check out my music and other stuff. Let me know if you enjoy what I do.
+
+www.fogelberg.com
+www.soundcloud.com/knatter
+www.facebook.com/Bjorn.Fogelberg.official
+
+
+Instructions
+------------
+
+I'm not sure if you need to have the custom firmware installed to run the TR-707/808/909 patch set. In any case it is an improvement over the official firmware so you should check it out if you haven't already. You can read more and download the custom firmware here:  http://brendanclarke.com/2016/02/15/lxr-custom-firmware-tutorials
+
+How to install:
+
+1. Copy all the files named P001.SND, P002.SND etc to the SD-card. These are the individual patches. 
+You can rename the files if you don't want to overwrite existing patches.
+
+2. Copy the folder 'samples' to the SD-card, including all its content.
+
+3. Insert the SD-card to the LXR and start it up. Press the red load button and choose [Samples]
+Press OK to load the samples. You only need to do this once, as they will remain in the LXR after the power is turned off.
+If you can't see any [Samples] in the load screen, you most likely need to upgrade the firmware to a newer version.
+
+4. That's it. Select any patch and start to make some great music.
+
+
+Here's a short description of the patches.
+
+P001	808_BF.SND
+P002	808_2_BF.SND
+P003	808_3_BF.SND
+P004	808_4_BF.SND
+
+Four variations of TR-808. Since LXR only has 6 channels, I couldn't fit everything I wanted into one patch.
+
+P005	808/9_BF.SND
+
+A combination of TR-808 and TR-909
+
+P006	7/8/9_BF.SND
+
+A combination of TR-707, TR-808 and TR-909
+
+P007	909_BF.SND
+
+TR-909, We're going more in to techno-land with this one.
+
+P008	707_BF.SND
+
+TR-707, classic 80's drum sounds.
+
+P009	Tech_BF.SND
+
+A techy mixture of sounds.
+
+
+
