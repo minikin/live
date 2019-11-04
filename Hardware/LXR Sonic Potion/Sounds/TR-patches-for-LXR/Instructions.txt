@@ -1,4 +1,4 @@
-This is the Björn Fogelberg TR-707/808/909 patch set for the Sonic Potions LXR drum machine.
+This is the Bjï¿½rn Fogelberg TR-707/808/909 patch set for the Sonic Potions LXR drum machine.
 
 All patches were created by Bjorn Fogelberg in 2017, on a self-built Sonic Potions LXR Drum machine using the LXR Custom firmware 0.37 by Brendan Clarke. All patches are free to use in your music and spread as you like, as long as you don't make any money from the patches. This means you are not allowed to sell them for money in any way. They are free and should remain that way.
 
@@ -12,11 +12,13 @@ www.facebook.com/Bjorn.Fogelberg.official
 Instructions
 ------------
 
-I'm not sure if you need to have the custom firmware installed to run the TR-707/808/909 patch set. In any case it is an improvement over the official firmware so you should check it out if you haven't already. You can read more and download the custom firmware here:  http://brendanclarke.com/2016/02/15/lxr-custom-firmware-tutorials
+I'm not sure if you need to have the custom firmware installed to run the TR-707/808/909 patch set.
+In any case it is an improvement over the official firmware so you should check it out if you haven't already.
+You can read more and download the custom firmware here:  http://brendanclarke.com/2016/02/15/lxr-custom-firmware-tutorials
 
 How to install:
 
-1. Copy all the files named P001.SND, P002.SND etc to the SD-card. These are the individual patches. 
+1. Copy all the files named P001.SND, P002.SND etc to the SD-card. These are the individual patches.
 You can rename the files if you don't want to overwrite existing patches.
 
 2. Copy the folder 'samples' to the SD-card, including all its content.
